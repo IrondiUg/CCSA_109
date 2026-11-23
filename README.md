@@ -1,4 +1,4 @@
-# CCSA107: Identity Awareness
+# CCSA109: Identity Awareness
 
 ##  Assignment Overview
 This repository contains my theoretical assessment for **CCSA107 – Identity Awareness**, part of the Check Point Certified Security Administrator (CCSA) training programme.
